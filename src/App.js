@@ -10,7 +10,7 @@ function App() {
         <p>
           Hello Naiz this is my First React App in AMAZON Web Services.
           <br></br>
-          Hola Naiz, esta es mi 1ra aplicación web en AMAZON
+          Hola Naiz, esta es mi 1ra aplicación web en AMAZON <3 :*
         </p>
         <a
           className="App-link"
