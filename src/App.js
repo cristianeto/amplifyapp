@@ -7,8 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Naiz this is my First React Appin AMAZON.</p>
-        <p>Hola Naiz, esta es mi 1ra Aplicación web en AMAZON</p>
+        <p>
+          Hello Naiz this is my First React App in AMAZON Web Services.
+          <br></br>
+          Hola Naiz, esta es mi 1ra aplicación web en AMAZON
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
